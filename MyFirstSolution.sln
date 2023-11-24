@@ -10,11 +10,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySecondConsole", "MySecondConsole\MySecondConsole.csproj", "{8B250FCB-1F46-46D3-9F93-6673D94FAFAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MySecondConsole", "MySecondConsole\MySecondConsole.csproj", "{8B250FCB-1F46-46D3-9F93-6673D94FAFAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyThirdConsole", "MyThirdConsole\MyThirdConsole.csproj", "{94DBC13C-C557-47F0-B9C9-88811292B0FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyThirdConsole", "MyThirdConsole\MyThirdConsole.csproj", "{94DBC13C-C557-47F0-B9C9-88811292B0FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFourthConsole", "MyFourthConsole\MyFourthConsole.csproj", "{4DB8AF6F-E193-4F73-9DF5-A4EB22FBD2C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyFourthConsole", "MyFourthConsole\MyFourthConsole.csproj", "{4DB8AF6F-E193-4F73-9DF5-A4EB22FBD2C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3Task1", "Lesson3Task1\Lesson3Task1.csproj", "{A9907522-4AAA-4980-A4ED-7B7D4A5431BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3Task2", "Lesson3Task2\Lesson3Task2.csproj", "{43621F2D-10F4-4190-962D-3C9BF8AC307F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3Task3", "Lesson3Task3\Lesson3Task3.csproj", "{91F3E9A5-AFDA-4BEC-943C-A8F7DFFE893E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3Task4", "Lesson3Task4\Lesson3Task4.csproj", "{5E3B7596-31C5-4238-AA9D-D22A03CBE890}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3Task5", "Lesson3Task5\Lesson3Task5.csproj", "{F62B2052-B83C-41AB-839E-355B2CF354C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3Task6", "Lesson3Task6\Lesson3Task6.csproj", "{E9CEBB6C-1BB3-4427-AE78-C4A28EFAC08F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -38,6 +50,30 @@ Global
 		{4DB8AF6F-E193-4F73-9DF5-A4EB22FBD2C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DB8AF6F-E193-4F73-9DF5-A4EB22FBD2C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DB8AF6F-E193-4F73-9DF5-A4EB22FBD2C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9907522-4AAA-4980-A4ED-7B7D4A5431BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9907522-4AAA-4980-A4ED-7B7D4A5431BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9907522-4AAA-4980-A4ED-7B7D4A5431BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9907522-4AAA-4980-A4ED-7B7D4A5431BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43621F2D-10F4-4190-962D-3C9BF8AC307F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43621F2D-10F4-4190-962D-3C9BF8AC307F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43621F2D-10F4-4190-962D-3C9BF8AC307F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43621F2D-10F4-4190-962D-3C9BF8AC307F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91F3E9A5-AFDA-4BEC-943C-A8F7DFFE893E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F3E9A5-AFDA-4BEC-943C-A8F7DFFE893E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F3E9A5-AFDA-4BEC-943C-A8F7DFFE893E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F3E9A5-AFDA-4BEC-943C-A8F7DFFE893E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E3B7596-31C5-4238-AA9D-D22A03CBE890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E3B7596-31C5-4238-AA9D-D22A03CBE890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E3B7596-31C5-4238-AA9D-D22A03CBE890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E3B7596-31C5-4238-AA9D-D22A03CBE890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F62B2052-B83C-41AB-839E-355B2CF354C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F62B2052-B83C-41AB-839E-355B2CF354C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F62B2052-B83C-41AB-839E-355B2CF354C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F62B2052-B83C-41AB-839E-355B2CF354C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9CEBB6C-1BB3-4427-AE78-C4A28EFAC08F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9CEBB6C-1BB3-4427-AE78-C4A28EFAC08F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9CEBB6C-1BB3-4427-AE78-C4A28EFAC08F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9CEBB6C-1BB3-4427-AE78-C4A28EFAC08F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
