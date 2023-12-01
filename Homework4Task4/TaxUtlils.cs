@@ -2,7 +2,7 @@
 {
     internal class TaxUtlils
     {
-        const int IncomeTax = 13;
+        const decimal IncomeTax = 13M;
 
         public static bool CalculateIncomeTax(decimal salary, out decimal tax)
         {
@@ -11,7 +11,6 @@
                 Console.WriteLine("Salary can not be negative or zero");
                 tax = -1;
                 return false;
-
             } 
             else
             {
