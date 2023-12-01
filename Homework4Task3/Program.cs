@@ -3,6 +3,7 @@
     internal class Program
     {
         const int Range = 1000;
+
         static void Main(string[] args)
         {
             int arraySize = new Random().Next(Range);

@@ -33,8 +33,7 @@
                     default:
                         Console.WriteLine("Don't know where to move");
                         break;
-                }
-               
+                }               
             }
         }
     }
