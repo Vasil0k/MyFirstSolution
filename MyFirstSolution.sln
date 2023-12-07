@@ -16,17 +16,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyThirdConsole", "MyThirdCo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyFourthConsole", "MyFourthConsole\MyFourthConsole.csproj", "{4DB8AF6F-E193-4F73-9DF5-A4EB22FBD2C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3Task1", "Lesson3Task1\Lesson3Task1.csproj", "{A9907522-4AAA-4980-A4ED-7B7D4A5431BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson3Task1", "Lesson3Task1\Lesson3Task1.csproj", "{A9907522-4AAA-4980-A4ED-7B7D4A5431BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3Task2", "Lesson3Task2\Lesson3Task2.csproj", "{43621F2D-10F4-4190-962D-3C9BF8AC307F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson3Task2", "Lesson3Task2\Lesson3Task2.csproj", "{43621F2D-10F4-4190-962D-3C9BF8AC307F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3Task3", "Lesson3Task3\Lesson3Task3.csproj", "{91F3E9A5-AFDA-4BEC-943C-A8F7DFFE893E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson3Task3", "Lesson3Task3\Lesson3Task3.csproj", "{91F3E9A5-AFDA-4BEC-943C-A8F7DFFE893E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3Task4", "Lesson3Task4\Lesson3Task4.csproj", "{5E3B7596-31C5-4238-AA9D-D22A03CBE890}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson3Task4", "Lesson3Task4\Lesson3Task4.csproj", "{5E3B7596-31C5-4238-AA9D-D22A03CBE890}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3Task5", "Lesson3Task5\Lesson3Task5.csproj", "{F62B2052-B83C-41AB-839E-355B2CF354C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson3Task5", "Lesson3Task5\Lesson3Task5.csproj", "{F62B2052-B83C-41AB-839E-355B2CF354C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3Task6", "Lesson3Task6\Lesson3Task6.csproj", "{E9CEBB6C-1BB3-4427-AE78-C4A28EFAC08F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson3Task6", "Lesson3Task6\Lesson3Task6.csproj", "{E9CEBB6C-1BB3-4427-AE78-C4A28EFAC08F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework4Task1", "Homework4Task1\Homework4Task1.csproj", "{7389FAF6-F373-447C-B8F2-02F17304FC05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework4Task2", "Homework4Task2\Homework4Task2.csproj", "{CF52D64C-3D0E-4B17-88B7-73649B2D0C92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework4Task3", "Homework4Task3\Homework4Task3.csproj", "{203792E1-BB26-4DC0-9B64-1440E94A76CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework4Task4", "Homework4Task4\Homework4Task4.csproj", "{62B288E8-6E9B-42C3-A5E7-1D508BE55D6D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -74,6 +82,22 @@ Global
 		{E9CEBB6C-1BB3-4427-AE78-C4A28EFAC08F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9CEBB6C-1BB3-4427-AE78-C4A28EFAC08F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9CEBB6C-1BB3-4427-AE78-C4A28EFAC08F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7389FAF6-F373-447C-B8F2-02F17304FC05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7389FAF6-F373-447C-B8F2-02F17304FC05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7389FAF6-F373-447C-B8F2-02F17304FC05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7389FAF6-F373-447C-B8F2-02F17304FC05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF52D64C-3D0E-4B17-88B7-73649B2D0C92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF52D64C-3D0E-4B17-88B7-73649B2D0C92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF52D64C-3D0E-4B17-88B7-73649B2D0C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF52D64C-3D0E-4B17-88B7-73649B2D0C92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{203792E1-BB26-4DC0-9B64-1440E94A76CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{203792E1-BB26-4DC0-9B64-1440E94A76CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{203792E1-BB26-4DC0-9B64-1440E94A76CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{203792E1-BB26-4DC0-9B64-1440E94A76CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62B288E8-6E9B-42C3-A5E7-1D508BE55D6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62B288E8-6E9B-42C3-A5E7-1D508BE55D6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62B288E8-6E9B-42C3-A5E7-1D508BE55D6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62B288E8-6E9B-42C3-A5E7-1D508BE55D6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
